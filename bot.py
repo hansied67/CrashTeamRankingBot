@@ -155,4 +155,4 @@ async def on_command_error(ctx, error):
 
 
 if __name__ == '__main__':
-    client.run('NjQwODIzODU2OTY5NTQ3Nzgz.Xb_b0Q.-Ns0Fuh_vorYPW00dTMtUOXzMO0')
+    client.run('YOUR_TOKEN_HERE')
